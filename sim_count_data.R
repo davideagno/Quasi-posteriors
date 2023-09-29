@@ -129,7 +129,7 @@ for (s in 1:S) {
   stan_data$p <- p
   stan_data$y <- y
   stan_data$rec_psi <- 1 / psi[s]
-  fit <- stan(file = "sim_counts.stan", data = stan_data,
+  fit <- stan(file = "sim_count_data.stan", data = stan_data,
               warmup = 1000, iter = 2000,
               chains = 3, cores = 3)
   GLM_ql <- as.mcmc(as.matrix(fit))
