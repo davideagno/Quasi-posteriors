@@ -12,8 +12,8 @@ set.seed(123)
 X <- cbind(rep(1, N),
            rnorm(N, mean = 0, sd = 1))
 X <- as.matrix(X)
-mu_true = X %*% beta_true
-var_true = psi_true * exp(mu_true)
+mu_true <- X %*% beta_true
+var_true <- psi_true * exp(mu_true)
 y <- rnorm(N, mean = mu_true, sd = sqrt(var_true))
 
 # Standard Linear Model
