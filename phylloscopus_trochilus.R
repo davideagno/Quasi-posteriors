@@ -32,7 +32,7 @@ stan_data$rec_psi <- 1 / psi
 
 burn_in <- 1000
 iter <- 5000
-fit_ql <- stan(file = 'birds_hierarchical.stan', 
+fit_ql <- stan(file = 'phylloscopus_trochilus.stan', 
                data = stan_data,
                warmup = burn_in, 
                iter = iter + burn_in, 
