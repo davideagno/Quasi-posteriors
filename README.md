@@ -1,8 +1,11 @@
 # Quasi-posteriors
 
 Code and data for the analysis contained in [[1]](#1).
-- [example_intro.R](https://github.com/davideagno/HackTheGene/blob/main/BALSAMICO_analysis.R) and [example_intro.stan](https://github.com/davideagno/HackTheGene/blob/main/BALSAMICO_analysis.R) contain the code for replicate Figure 1.
-
+- [example_intro.R](example_intro.R) and [example_intro.stan](example_intro.Rstan) contain the code for replicate Figure 1.
+- [sim_heteroscedastic_data.R](sim_heteroscedastic_data.R) and [sim_heteroscedastic_data.stan](sim_heteroscedastic_data.stan) contain the code for replicate simulation example of section 5.1.
+- [sim_count_data.R](sim_count_data.R) and [sim_count_data.stan](sim_count_data.stan) contain the code for replicate simulation example of section 5.2.
+- [secalis.R](secalis.R) contains the code for replicate the application to Rhyncoscopium secalis data.
+- 
 
 
 
