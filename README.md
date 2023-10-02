@@ -1,4 +1,4 @@
-# Quasi-posteriors
+# Supporting information for "Bayesian inference for generalized linear models via quasi-posteriors"
 
 Code and data for the analysis contained in [[1]](#1).
 - [example_intro.R](example_intro.R) and [example_intro.stan](example_intro.stan) contain the code for replicate Figure 1.
