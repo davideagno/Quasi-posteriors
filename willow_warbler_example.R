@@ -35,7 +35,7 @@ sum(da$y == 0) / N
 
 burn_in <- 500
 iter <- 1500
-fit_ql <- stan(file = 'birds_hierarchical.stan', 
+fit_ql <- stan(file = 'willow_warbler.stan', 
                data = stan_data,
                warmup = burn_in, 
                iter = iter + burn_in, 
