@@ -5,7 +5,7 @@ Code and data for the analysis contained in [[1]](#1).
 - [sim_heteroscedastic_data.R](sim_heteroscedastic_data.R) and [sim_heteroscedastic_data.stan](sim_heteroscedastic_data.stan) contain the code for replicate simulation example of section 5.1.
 - [sim_count_data.R](sim_count_data.R) and [sim_count_data.stan](sim_count_data.stan) contain the code for replicate simulation example of section 5.2.
 - [secalis.R](secalis.R) contains the code for replicate the analysis of *Rhyncoscopium secalis* data.
-- [phylloscopus_trochilus.R](phylloscopus_trochilus.R) and [phylloscopus_trochilus.stan](phylloscopus_trochilus.stan) contain the code for replicate the analysis of *Phylloscopus trochilus* abundance in Finland. Data are available in [phylloscopus_trochilus.csv](phylloscopus_trochilus.csv).
+- [willow_warbler_example.R](willow_warbler_example.R) and [willow_warbler.stan](willow_warbler.stan) contain the code for replicate the analysis of *Phylloscopus trochilus* abundance in Finland. Data are available in [willow_warbler.csv](willow_warbler.csv). [sites_location_06_08.csv](sites_location_06_08.csv) is needed for obtaining Figure 6.
 
 ### References
 <a id="1">[1]</a> 
