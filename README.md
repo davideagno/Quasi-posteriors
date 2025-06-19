@@ -10,6 +10,6 @@ Code and data for the analysis contained in [[1]](#1).
 
 ### References
 <a id="1">[1]</a> 
-Agnoletto, D., Rigon, T., Dunson, D. B. (2023).
+Agnoletto, D., Rigon, T., Dunson, D. B. (2025).
 Bayesian inference for generalized linear model via quasi-posteriors.
-Submitted.
+_Biometrika_, _to appear_.
