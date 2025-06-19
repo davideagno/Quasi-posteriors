@@ -12,4 +12,4 @@ Code and data for the analysis contained in [[1]](#1).
 <a id="1">[1]</a> 
 Agnoletto, D., Rigon, T., Dunson, D. B. (2025).
 Bayesian inference for generalized linear model via quasi-posteriors.
-_Biometrika_, _to appear_.
+_Biometrika_, to appear.
